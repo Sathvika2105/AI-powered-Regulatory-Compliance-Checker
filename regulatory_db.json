@@ -1,0 +1,30 @@
+[
+  {
+    "id": "reg-2025-gdpr-consent",
+    "title": "GDPR: Consent Recordkeeping Update",
+    "jurisdiction": "EU",
+    "date_published": "2025-10-01",
+    "summary": "Requires explicit recording of consent metadata including timestamp and purpose.",
+    "keywords": [
+      "consent",
+      "personal data",
+      "gdpr",
+      "recordkeeping"
+    ],
+    "source_url": "https://example.org/gdpr-update"
+  },
+  {
+    "id": "reg-2025-data-localisation",
+    "title": "Data Localisation Advisory",
+    "jurisdiction": "IN",
+    "date_published": "2025-09-15",
+    "summary": "Advisory recommending storage of certain personal data within jurisdictional borders.",
+    "keywords": [
+      "localis",
+      "data localisation",
+      "personal data",
+      "cross-border"
+    ],
+    "source_url": "https://example.org/data-localisation"
+  }
+]
